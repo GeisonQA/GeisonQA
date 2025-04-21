@@ -1,11 +1,11 @@
-# 👋 Oi, eu sou a Geison Sousa de Oliveira!
+# 👋 Oi, eu sou Geison Sousa de Oliveira!
 
 Atualmente estou em transição de carreira para a área de **Qualidade de Software**, com o objetivo de atuar como **QA Júnior**.  
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focada em aprender, praticar e crescer na área de testes manuais e automatizados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focado em aprender, praticar e crescer na área de testes manuais e automatizados.
 
 ---
 
-## 🎯 Em que estou focada agora:
+## 🎯 Em que estou focado agora:
 
 - Aprimorar meus conhecimentos em **testes manuais e automatizados**
 - Entender bem os **fluxos de desenvolvimento** nos modelos Cascata e Ágil (Scrum)
@@ -41,7 +41,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focada em ap
 ## 🌱 Buscando evoluir todos os dias...
 
 A cada estudo, teste, erro e acerto, sigo comprometida com a minha transição para a área de QA.  
-Estou aberta a conexões, dicas, oportunidades e muito aprendizado! 💪
+Estou aberto a conexões, dicas, oportunidades e muito aprendizado! 💪
 
 ---
 
