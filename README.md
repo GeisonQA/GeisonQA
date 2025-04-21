@@ -48,5 +48,5 @@ Estou aberta a conexões, dicas, oportunidades e muito aprendizado! 💪
 ## 📫 Contato
 
 - ✉️ Email: **geisonshorts@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/geison-sousa-de-oliveira-62bb44145/)
+- 💼 [LinkedIn]: [LinkedIn/geison-sousa-de-oliveira](https://www.linkedin.com/in/geison-sousa-de-oliveira-62bb44145/)
 - 🧪 GitHub: [github.com/GeisonQA](https://github.com/GeisonQA)
