@@ -26,7 +26,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focado em ap
 - Java com POO
 
 ### **Ferramentas**
-- Git e GitHub (básico)
+- Git e GitHub 
 
 ---
 
