@@ -16,7 +16,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focado em ap
 ## 🧪 Tecnologias que estou aprendendo:
 
 ### **Automação de Testes**
-- **API:** Postman, supertest, mocha 
+- **API:** Postman, Supertest, Mocha 
 - **Web:** Cypress Selenium WebDriver
 
 
