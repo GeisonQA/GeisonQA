@@ -9,21 +9,20 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focado em ap
 
 - Aprimorar meus conhecimentos em **testes manuais e automatizados**
 - Entender bem os **fluxos de desenvolvimento** nos modelos Cascata e Ágil (Scrum)
-- Praticar testes em diferentes contextos: **Web**, **API**, **Mobile (Android)** e **Desktop**
+- Praticar testes em diferentes contextos: **Web**, **API**.
 
 ---
 
 ## 🧪 Tecnologias que estou aprendendo:
 
 ### **Automação de Testes**
-- **API:** Postman, RestAssured (Java)
-- **Web:** JUnit, Selenium WebDriver
-- **Mobile:** iUnit, Appium
-- **Desktop:** TestComplete
+- **API:** Postman, supertest, mocha 
+- **Web:** Cypress Selenium WebDriver
+
+
 
 ### **Linguagens de Programação**
-- JavaScript 
-- Java com POO
+- JavaScript
 
 ### **Ferramentas**
 - Git e GitHub 
