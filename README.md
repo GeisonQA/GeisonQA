@@ -1,50 +1,44 @@
-# 👋 Oi, eu sou Geison Sousa de Oliveira!
+# 👋 Olá, eu sou o Geison Sousa!
 
-Atualmente estou em transição de carreira para a área de **Qualidade de Software**, com o objetivo de atuar como **QA Júnior**.  
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focado em aprender, praticar e crescer na área de testes manuais e automatizados.
-
----
-
-## 🎯 Em que estou focado agora:
-
-- Aprimorar meus conhecimentos em **testes manuais e automatizados**
-- Entender bem os **fluxos de desenvolvimento** nos modelos Cascata e Ágil (Scrum)
-- Praticar testes em diferentes contextos: **Web**, **API**.
+💻 Estudante e futuro Analista de Qualidade de Software (QA)  
+🚀 Atualmente focado em testes de software, automação e desenvolvimento backend com Node.js  
+📍 Mangaratiba - RJ  
 
 ---
 
-## 🧪 Tecnologias que estou aprendendo:
-
-### **Automação de Testes**
-- **API:** Postman, Supertest, Mocha e Chai
-- **Web:** Cypress Selenium WebDriver
-
-
-
-### **Linguagens de Programação**
-- JavaScript
-
-### **Ferramentas**
-- Git e GitHub 
+## 🎯 Sobre mim
+- ✅ Formação em Lógica de Programação (40h) e JavaScript (40h)  
+- 🎓 Participei da mentoria do Júlio de Lima em QA  
+- 📚 Estudando **automação web, mobile e API**  
+- ⚡ Experiência prática construindo APIs com autenticação JWT e testes automatizados (Mocha, Chai, Supertest)  
+- 🌱 Buscando sempre evoluir e compartilhar conhecimento  
 
 ---
 
-## 🚀 Apoio e Formação
-
-- 📘 Curso de **Lógica de Programação e JavaScript** (40h)
-- 🎓 Faculdade de **Análise e Desenvolvimento de Sistemas**
-- 🤝 Mentoria com **Julio de Lima**, referência nacional em QA
-
----
-
-## 🌱 Buscando evoluir todos os dias...
-
-A cada estudo, teste, erro e acerto, sigo comprometida com a minha transição para a área de QA.  
-Estou aberto a conexões, dicas, oportunidades e muito aprendizado! 💪
+## 🚀 Tecnologias que uso atualmente:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=fff)
+![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=fff)
+![Supertest](https://img.shields.io/badge/-Supertest-000000?logo=jest&logoColor=fff)
 
 ---
 
-## 📫 Contato
+## 📚 Estou explorando:
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=fff)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geisonsousa&layout=compact&theme=radical)
+
+---
+
 
 - ✉️ Email: **geisonshorts@gmail.com**  
 - 💼 [LinkedIn]: [LinkedIn/geison-sousa-de-oliveira](https://www.linkedin.com/in/geison-sousa-de-oliveira-62bb44145/)
