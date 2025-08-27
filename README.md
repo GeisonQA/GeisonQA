@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Geison Sousa!
 
-💻 Estudante e futuro Analista de Qualidade de Software (QA)  
+💻 Analista de Qualidade de Software (QA)Jr.  
 🚀 Atualmente focado em testes de software, automação e desenvolvimento backend com Node.js  
 📍 Mangaratiba - RJ  
 
@@ -22,15 +22,17 @@
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=fff)
 ![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=fff)
 ![Supertest](https://img.shields.io/badge/-Supertest-000000?logo=jest&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 
 ---
 
 ## 📚 Estou explorando:
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=fff)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=fff)
+![JMeter](https://img.shields.io/badge/-Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff)
+![K6](https://img.shields.io/badge/-k6-7D64FF?logo=k6&logoColor=fff)
 
 ---
 
