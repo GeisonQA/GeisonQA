@@ -8,6 +8,7 @@
 ---
 
 ## 🎯 Sobre mim
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas - Uniasselvi
 - ✅ Formação em Lógica de Programação (40h) e JavaScript (40h)  
 - 🎓 Participei da mentoria do Júlio de Lima em QA M2.0 com uso de **IA generativa**
 - 📚 Estudando **automação web, mobile e API**  
